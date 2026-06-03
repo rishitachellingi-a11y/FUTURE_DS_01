@@ -12,7 +12,7 @@ This project analyzes business sales data to identify revenue trends, top-perfor
 ## Tools Used
 - Microsoft Excel
 - GitHub
-- Python (optional)
+
 
 ## Project Status
 In Progress
